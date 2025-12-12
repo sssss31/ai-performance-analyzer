@@ -1,0 +1,48 @@
+# Compiled binaries
+performance_analyzer
+perf_analyzer
+
+# Object files
+*.o
+obj/
+*.obj
+
+# Build directories
+build/
+dist/
+
+# Data files
+data/*.log
+data/*.csv
+*.log
+*.csv
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Package files
+*.deb
+*.rpm
+ai-analyzer-package/
+
+# Backups
+*.backup
+*.bak
+
+# Virtual environments
+venv/
+env/
+__pycache__/
+*.pyc
